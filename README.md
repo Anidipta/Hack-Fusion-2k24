@@ -44,7 +44,7 @@ Deployment: The Model after training , packed and deploy and will be monitored u
 **Image Processing:** Standardizing and normalizing the images for training and testing was difficult as it contains a lot of noises and availability was also less as mentioned earlier.
 
 - **Tech Stacks:**
-  Matplotlib, YOLOv8, Scikit-Learn, Django, Pillow, ResNetV2, Numpy, Keras, Tensorflow, Seaborn, Pandas, Labelimg, OpenCV, mySQL, Streamlit, RNN, CNN.
+  Matplotlib, YOLOv8x, Scikit-Learn, Django, Pillow, ResNetV2, Numpy, Keras, Tensorflow, Seaborn, Pandas, Labelimg, OpenCV, mySQL, Streamlit, RNN, CNN.
 
 
 
