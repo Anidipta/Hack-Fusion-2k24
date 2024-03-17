@@ -32,7 +32,7 @@ Deployment: The Model after training , packed and deploy and will be monitored u
 **Pedestrian Crossings:** People talking on their phones while crossing a road will be detected and enhancing people and road safety.
 
 **Gas Stations:** Using mobile phones in gas stations can be hazardous; hence people talking on their phones at gas stations will be detected via the CCTV units 
-  and fined, preserving fire safety.
+  and fined, preserving fire safety. 
 
 **Library:**  Surveillance systems will detect phone calls to maintain a quiet environment. Patrons will be reminded to keep noise to a minimum for peaceful 
   studying and reading. This ensures a conducive atmosphere for all library users.
