@@ -48,8 +48,6 @@ Deployment: The Model after training , packed and deploy and will be monitored u
 
 
 
-#nms-web
-
 In this video we have shown our working model prototype for images, videos and webcam.
 
 
