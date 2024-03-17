@@ -68,8 +68,7 @@ Deployment: The Model after training , packed and deploy and will be monitored u
 
 ## **Practical Use Cases:**
 
-  - **Hospitals:** People talking on their phones in hospital wards and cabins will be detected via the CCTV units and fined accordingly.This will also ensures a       
-  peaceful environment for patients and visitors.
+  - **Hospitals:** People talking on their phones in hospital wards and cabins will be detected via the CCTV units and fined accordingly.This will also ensures a peaceful environment for patients and visitors.
 
   - **Pedestrian Crossings:** People talking on their phones while crossing a road will be detected and enhancing people and road safety.
 
