@@ -48,7 +48,9 @@ Deployment: The Model after training , packed and deploy and will be monitored u
 
 
 
-In this video we have shown our working model prototype for images, videos and webcam.
+
+
+**In this video we have shown our working model prototype for images, videos and webcam.**
 
 
 https://github.com/Anidipta/Hack-Fusion-2k24/assets/140332086/647711ef-e1eb-46f3-ab6e-dcf6b2f3a9dd
