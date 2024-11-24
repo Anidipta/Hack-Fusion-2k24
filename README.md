@@ -1,5 +1,3 @@
-
-# Rebase
 ## 📞 Detection of People Talking on Mobile Phones in No-Mobile Zones 🚫📱
 ### Team: Forger House
 **Members:**
